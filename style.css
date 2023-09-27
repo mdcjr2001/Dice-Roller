@@ -3,7 +3,7 @@
 }
 
 header {
-    background-color: #579384;
+    background-color: beige;
     padding: 30px;
     text-align: center;
     font-size: 35px;
@@ -11,25 +11,25 @@ header {
 }
 
 nav{
-    border: solid red;
+    border: black;
     width: 50%;
-    background-color: aqua;
+    background-color: beige;
     padding: 1rem;
     text-align: center;
     font-size: 25px;
     color: black;
 }
 nav p{
-    color: orangered;
+    color: red;
 }
 footer{
-    background-color: darksalmon;
+    background-color: black;
     height: 2.5rem;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: black;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -48,4 +48,7 @@ article{
 }
 article button{
     height: 2rem;
+}
+article h1{
+    border: 2px solid red;
 }
