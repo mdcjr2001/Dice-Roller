@@ -35,7 +35,7 @@ footer{
     width: 100%;
 }
 footer p{
-    border: 2px greenyellow;
+    border: 2px black;
 }
 article{
     display: flex;
